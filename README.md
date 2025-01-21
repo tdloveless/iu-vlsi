@@ -23,6 +23,7 @@ Note that the course uses Sky130 PDK (Version 0.01) - 150nm Mosfet / 5 Metal PD
 A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided in the [IC_CAD/cadence](/IC_CAD/cadence/) directory and includes several basic Cadence-provided libraries for cell design, in addition to a pointer to the S130 library.
 
 ## Lecture Videos
+# [Kaltura Channel](https://iu.mediaspace.kaltura.com/channel/VLSI%2BDesign/367933772)
 * [1 - VLSI Design Lecture 1: Introduction to VLSI Design](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)
 * [2 - VLSI Design Lecture 2.0: Circuits and Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6)
 * [3 - VLSI Design Lecture 2.1: Circuits and Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0)
