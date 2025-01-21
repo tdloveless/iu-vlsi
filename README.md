@@ -13,7 +13,7 @@ The main contents are:
 
 ## Running Cadence
 
-1. SSH using instructions in [Resources/vlsi_setup](../Resources/vlsi_setup.md)
+1. SSH using instructions in [Resources/vlsi_setup](./Resources/vlsi_setup.md)
 2. Move to to Cadence run directory: `cd ~/IC_CAD/cadence`
 3. Load Cadence module: `module load cadence`
 4. Open Viruoso: `virtuoso` (or `virtuoso &` to run in background)
