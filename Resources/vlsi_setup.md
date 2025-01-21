@@ -3,12 +3,12 @@
 ### Cadence Setup Instructions (MAC OS)
 ## SSH into RHEL server
 * [Download and install XQuartz](https://www.xquartz.org)
-* Load XQuartz, starting an X server (xterm)
-* In the xterm or in the MAC terminal window, ssh into burrow-rhel: ssh -Y uname@burrow-rhel.luddy.indiana.edu
+* Load XQuartz, starting an X server (`xterm`)
+* In the xterm or in the MAC terminal window, ssh into burrow-rhel: `ssh -Y uname@burrow-rhel.luddy.indiana.edu`
 
 ## Start Cadence
-* In your home directory (or a defined cadence run directory), load the cadence module: module load cadence
-* Open virtuoso: virtuoso or virtuoso &
+* In your home directory (or a defined cadence run directory), load the cadence module: `module load cadence`
+* Open virtuoso: `virtuoso` or `virtuoso &`
 
 ### Process Design Kits (PDK):
 * [Generic Process Kits for Cadence] (https://support.cadence.com/apex/ArticleAttachmentPortal?id=a1Od000000051TqEAI&pageName=GPDKs)
