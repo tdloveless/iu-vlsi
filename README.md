@@ -1,11 +1,13 @@
 # iu-vlsi
 ### IUB ENGR-E-399/599 VLSI Course Material
 
-Repository contains lecture material, HW/lab material, and design files for Cadence
+The repository contains lecture material, HW/lab material, and design files for Cadence
 
-Lecture Material located in [Slides folder](./Slides/)<br>
-Syllabus located in [Syllabus folder](./Syllabus)<br>
-Lab and HW assignments located in [HW folder](./HW/)<br>
+The main contents are:
+* [Syllabus](./Syllabus)
+* [Lecture Slides](./Slides/)
+* [Lecture Videos](#lecture-videos)
+* [Lab and HW assignments](./HW/)
 
 ## Running Cadence
 
@@ -14,8 +16,12 @@ Lab and HW assignments located in [HW folder](./HW/)<br>
 3. Load Cadence module: `module load cadence`
 4. Open Viruoso: `virtuoso` (or `virtuoso &` to run in background)
 
-
 Note that the course uses Sky130 PDK (Version 0.01) - 150nm Mosfet / 5 Metal PDK: sky130_pdk_v0.01. This PDK provides Virtuoso technology library with symbols, pCells, and process constraints, Spectre models, Pegasus DRC, Pegasus LVS, and QRC data files with MSOA enabled. This PDK is built to support IC6.1 and IC23.1.
 
-
 A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided in the [IC_CAD/cadence](/IC_CAD/cadence/) directory and includes several basic Cadence-provided libraries for cell design, in addition to a pointer to the S130 library.
+
+## Lecture Videos
+* [1 - VLSI Design Lecture 1: Introduction to VLSI Design](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)
+* [2 - VLSI Design Lecture 2.0: Circuits and Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6)
+* [3 - VLSI Design Lecture 2.1: Circuits and Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0)
+
