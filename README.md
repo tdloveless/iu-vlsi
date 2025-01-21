@@ -8,6 +8,7 @@ The main contents are:
 * [Lecture Slides](./Slides/)
 * [Lecture Videos](#lecture-videos)
 * [Lab and HW assignments](./HW/)
+* [Setting up Cadence](#running-cadence)
 
 ## Running Cadence
 
