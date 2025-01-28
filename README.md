@@ -5,7 +5,7 @@ The repository contains lecture material, HW/lab material, and design files for 
 
 The main contents are:
 * [Syllabus](./Syllabus)
-* [Schedule](./Schedule#schedule)
+* [Schedule](./Schedule/schedule.md#schedule)
 * [Lecture Slides](./Slides/)
 * [Lecture Videos](#lecture-videos)
 * [Lab and HW assignments](./HW/)
