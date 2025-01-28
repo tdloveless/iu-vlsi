@@ -5,7 +5,7 @@ The repository contains lecture material, HW/lab material, and design files for 
 
 The main contents are:
 * [Syllabus](./Syllabus)
-* [Schedule](./Schedule)
+* [Schedule](./Schedule#schedule)
 * [Lecture Slides](./Slides/)
 * [Lecture Videos](#lecture-videos)
 * [Lab and HW assignments](./HW/)
@@ -30,4 +30,4 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [3L - VLSI Design Lab 1: Intro to Lab 1](https://iu.mediaspace.kaltura.com/media/t/1_vuye49w6)
 * [4 - VLSI Design Tutorial: Layout of NAND2](https://iu.mediaspace.kaltura.com/media/t/1_v5uty58m)
 
-## Schedule(./Schedule/schedule.md#schedule)
+## [Schedule](./Schedule/schedule.md#schedule)
