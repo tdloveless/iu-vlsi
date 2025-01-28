@@ -1,7 +1,6 @@
 # iu-vlsi
-# IUB ENGR-E-399/599 VLSI Course Schedule
+## IUB ENGR-E-399/599 VLSI Course Schedule
 
-## Schedule
 |Date|Lecture|Topic|Slides|Assignments|Reading|Due|Video Link|Lab Link|
 |---|---|---|---|---|---|---|---|---|
 |1/14/2025|1|1.0 - Introduction|1||||[1 - VLSI Design Lecture 1: Introduction to VLSI Design](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)||
