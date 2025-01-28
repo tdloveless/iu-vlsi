@@ -29,3 +29,5 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [3 - VLSI Design Lecture 2.1: Circuits and Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0)
 * [3L - VLSI Design Lab 1: Intro to Lab 1](https://iu.mediaspace.kaltura.com/media/t/1_vuye49w6)
 * [4 - VLSI Design Tutorial: Layout of NAND2](https://iu.mediaspace.kaltura.com/media/t/1_v5uty58m)
+
+## Schedule(./Schedule/schedule.md#schedule)
