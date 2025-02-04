@@ -16,7 +16,7 @@ The main contents are:
 1. SSH using instructions in [Resources/vlsi_setup](./Resources/vlsi_setup.md)
 2. Move to to Cadence run directory: `cd ~/IC_CAD/cadence`
 3. Load Cadence module: `module load cadence`
-4. Open Viruoso: `virtuoso` (or `virtuoso &` to run in background)
+4. Open Virtuoso: `virtuoso` (or `virtuoso &` to run in background)
 
 Note that the course uses Sky130 PDK (Version 0.01) - 150nm Mosfet / 5 Metal PDK: sky130_pdk_v0.01. This PDK provides Virtuoso technology library with symbols, pCells, and process constraints, Spectre models, Pegasus DRC, Pegasus LVS, and QRC data files with MSOA enabled. This PDK is built to support IC6.1 and IC23.1.
 
@@ -30,3 +30,4 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [3L - VLSI Design Lab 1: Intro to Lab 1](https://iu.mediaspace.kaltura.com/media/t/1_vuye49w6)
 * [4 - VLSI Design Tutorial: Layout of NAND2](https://iu.mediaspace.kaltura.com/media/t/1_v5uty58m)
 * [5 - Transistor Theory Lecture 3.0](https://iu.mediaspace.kaltura.com/media/t/1_23ieu5r5)
+* [6 - Non-Ideal Transistor Theory Lecture 4.1]()
