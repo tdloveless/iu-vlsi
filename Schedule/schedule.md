@@ -10,4 +10,6 @@
 |1/28/2025|5|3.0 - CMOS Transistor Theory|[3](../Slides/3.0-Transistors.pptx)||||[5 - Transistor Theory Lecture 3.0](https://iu.mediaspace.kaltura.com/media/t/1_23ieu5r5)||
 |1/30/2025|6|4.0 - Non-Ideal Transistor Theory Part 1|[4](../Slides/4.0-Non-Ideal-Transistors.pptx)|HW 1||Lab 1|||
 |2/4/2025|7|4.1 - Non-Ideal Transistor Theory Part 2|[4](../Slides/4.0-Non-Ideal-Transistors.pptx)||||||
-|2/6/2025|8|TBD||||HW 1|||
+|2/6/2025|8|4L - DRC & LVS|||||||
+|2/11/2025|8|5 - DC & Transient Simulation||||HW 1|||
+
