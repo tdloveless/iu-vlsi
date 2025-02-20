@@ -33,3 +33,7 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [7 - VLSI Design Lecture 4.1: Non-Ideal Transistor Theory Part 1](https://iu.mediaspace.kaltura.com/media/t/1_2b366691)
 * [8 - VLSI Design Tutorial: DRC & LVS](https://iu.mediaspace.kaltura.com/media/t/1_zpohh96u)
 * [9 - VLSI Design Lecture 4.2: Non-Ideal Transistor Theory Part 2 & 5.1: DC & Transient Analysis Part 1](https://iu.mediaspace.kaltura.com/media/t/1_zl9296ow)
+* [10 - VLSI Design Lecture 5.2: DC & Transient Analysis Part 2](https://iu.mediaspace.kaltura.com/media/t/1_cwttp12m)
+* [11 - VLSI Design Lab 2: Intro to Lab 2](https://iu.mediaspace.kaltura.com/media/t/1_h9zudkas)
+* [12 - VLSI Design Lecture 6.1: Logical Effort Part 1](https://iu.mediaspace.kaltura.com/media/t/1_uzarhskv)
+* [13 - VLSI Design Lecture 6.2: Logical Effort Part 2](https://iu.mediaspace.kaltura.com/media/t/1_1o42bbwr)
