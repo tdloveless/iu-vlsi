@@ -1,4 +1,6 @@
-       DEFINE rfLib $(inst_root_with:tools/dfII/bin/virtuoso)/tools/dfII/samples/artist/rfLib
-       DEFINE US_8ths $(inst_root_with:tools/dfII/bin/virtuoso)/tools/dfII/etc/cdslib/sheets/US_8ths
-       INCLUDE /home/sky130_release_0.0.1/cds.lib
-DEFINE Test_SKY130 /nfs/nfs1/home/$USER/Test_SKY130
+# File Created by Daniel Loveless,,, at Thu Jan 11 13:06:21 2024
+# assisted by CdsLibEditor
+DEFINE rfLib $(inst_root_with:tools/dfII/bin/virtuoso)/tools/dfII/samples/artist/rfLib
+DEFINE US_8ths $(inst_root_with:tools/dfII/bin/virtuoso)/tools/dfII/etc/cdslib/sheets/US_8ths
+INCLUDE /home/sky130_release_0.0.1/cds.lib
+DEFINE iu_stdcell_2025 /nfs/nfs1/home/$USER/IC_CAD/cadence/iu_stdcell_2025
