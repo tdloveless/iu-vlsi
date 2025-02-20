@@ -13,7 +13,7 @@
 |2/6/2025|8|4L - DRC & LVS|NA||||[8 - VLSI Design Tutorial: DRC & LVS](https://iu.mediaspace.kaltura.com/media/t/1_zpohh96u)||
 |2/11/2025|9|4.1 - Non-Ideal Transistor Theory Part 15 + 5.0 - DC & Transient Analysis Part 1|[4](../Slides/4.0-Non-Ideal-Transistors.pptx), [5](../Slides/5.0-DC-Tran.pptx)|||[HW 1](../HW/HW1.md)|[9 - VLSI Design Lecture 4.2: Non-Ideal Transistor Theory Part 2 & 5.1: DC & Transient Analysis Part 1](https://iu.mediaspace.kaltura.com/media/t/1_zl9296ow)||
 |2/13/2025|10|5.1 - DC & Transient Analysis Part 2|[5](../Slides/5.0-DC-Tran.pptx)|||[Lab 1+](../HW/LAB_1.docx)|[10 - 5.1: DC & Transient Analysis Part 2](https://iu.mediaspace.kaltura.com/media/t/1_cwttp12m)|[5L - VLSI Design Lab 2: Intro to Lab 2](https://iu.mediaspace.kaltura.com/media/t/1_h9zudkas)|
-|2/18/2025|11|5L - Lab 2/Buffer Design|[5L](https://iu.mediaspace.kaltura.com/media/t/1_h9zudkas)|[Lab 2](../HW/LAB_2.docx)|||||
-|2/20/2025|12|6.1 - Logical Effort Part 1|[6](../Slides/6.0-LogicalEffort.pptx)|HW 2|||||
-|2/25/2025|13|6.2 - Logical Effort Part 2|[6](../Slides/6.0-LogicalEffort.pptx)||||||
+|2/18/2025|11|5L - Lab 2/Buffer Design|[5L](https://iu.mediaspace.kaltura.com/media/t/1_h9zudkas)|[Lab 2](../HW/LAB_2.docx)|||NA||
+|2/20/2025|12|6.1 - Logical Effort Part 1<br>6.2 - Logical Effort Part 2|[6](../Slides/6.0-LogicalEffort.pptx)|HW 2|||[12 - 6.1: VLSI Design Lecture 6.1: Logical Effort Part 1](https://iu.mediaspace.kaltura.com/media/t/1_uzarhskv)<br>[13 - 6.2: VLSI Design Lecture 6.2: Logical Effort Part 2](https://iu.mediaspace.kaltura.com/media/t/1_1o42bbwr)||
+|2/25/2025|13|6.3 - Logical Effort Part 3|[6](../Slides/6.0-LogicalEffort.pptx)||||||
 |2/27/2025|14|6L - Lab 2/Buffer Design||||[Lab 2](../HW/LAB_2.docx)||
