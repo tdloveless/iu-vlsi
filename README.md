@@ -37,3 +37,5 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [11 - VLSI Design Lab 2: Intro to Lab 2](https://iu.mediaspace.kaltura.com/media/t/1_h9zudkas)
 * [12 - VLSI Design Lecture 6.1: Logical Effort Part 1](https://iu.mediaspace.kaltura.com/media/t/1_uzarhskv)
 * [13 - VLSI Design Lecture 6.2: Logical Effort Part 2](https://iu.mediaspace.kaltura.com/media/t/1_1o42bbwr)
+* [14 - VLSI Design Lecture 6.3: Logical Effort Part 3](https://iu.mediaspace.kaltura.com/media/t/1_te524zun)
+
