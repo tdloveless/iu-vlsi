@@ -19,4 +19,4 @@
 |2/27/2025|15|6L - Lab 2/Buffer Design|NA|[HW 2](../HW/HW2.md)||[Lab 2](../HW/LAB_2.docx)||
 |3/4/2025|16|||||||
 |3/6/2025|17|||||||
-|3/11/2025|18|||||[HW 2](../HW/HW2.md)<br>[HW 2 Solutions (Part 1)](../HW/HW2_Part1_Solutions.pdf)<br>[HW 2 Solutions (Part 2)](../HW/HW2_Part2_Solutions.pdf)||
+|3/11/2025|18|Midterm Review|NA|||[HW 2](../HW/HW2.md)<br>[HW 2 Solutions (Part 1)](../HW/HW2_Part1_Solutions.pdf)<br>[HW 2 Solutions (Part 2)](../HW/HW2_Part2_Solutions.pdf)|[Midterm Review](https://iu.mediaspace.kaltura.com/media/t/1_7hmtlvy0)|
