@@ -17,3 +17,4 @@
 |2/20/2025|12, 13|6.1 - Logical Effort Part 1<br>6.2 - Logical Effort Part 2|[6](../Slides/6.0-LogicalEffort.pptx)||||[12 - 6.1: VLSI Design Lecture 6.1: Logical Effort Part 1](https://iu.mediaspace.kaltura.com/media/t/1_uzarhskv)<br>[13 - 6.2: VLSI Design Lecture 6.2: Logical Effort Part 2](https://iu.mediaspace.kaltura.com/media/t/1_1o42bbwr)||
 |2/25/2025|14|6.3 - Logical Effort Part 3|[6](../Slides/6.0-LogicalEffort.pptx)|HW 2|||||
 |2/27/2025|15|6L - Lab 2/Buffer Design||||[Lab 2](../HW/LAB_2.docx)||
+|3/27/2025|x|x|x|[HW 3](../HW/HW3.md)||||
