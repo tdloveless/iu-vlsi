@@ -46,4 +46,4 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [24 - VLSI Design Lecture 9: Sequential Design](https://iu.mediaspace.kaltura.com/media/t/1_384b3ste/367933772)
 * [25.1 - VLSI Design Lecture 10.1: Interconnect Part 1](https://iu.mediaspace.kaltura.com/media/t/1_ycf9q8dd)
 * [25.2 - VLSI Design Lecture 10.2: Interconnect Part 2](https://iu.mediaspace.kaltura.com/media/t/1_txucquru)
-* [26 - VLSI Design Lecture 11: SRAM]()
+* [26 - VLSI Design Lecture 11: SRAM](https://iu.mediaspace.kaltura.com/media/t/1_2qaqrm9y)
