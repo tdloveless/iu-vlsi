@@ -16,7 +16,19 @@
 |2/18/2025|11|5L - Lab 2/Buffer Design|[5L](https://iu.mediaspace.kaltura.com/media/t/1_h9zudkas)|[Lab 2](../HW/LAB_2.docx)|||[11 - 5L: VLSI Design Lab: Intro to Lab 2](https://iu.mediaspace.kaltura.com/media/t/1_h9zudkas)||
 |2/20/2025|12, 13|6.1 - Logical Effort Part 1<br>6.2 - Logical Effort Part 2|[6](../Slides/6.0-LogicalEffort.pptx)||||[12 - 6.1: VLSI Design Lecture 6.1: Logical Effort Part 1](https://iu.mediaspace.kaltura.com/media/t/1_uzarhskv)<br>[13 - 6.2: VLSI Design Lecture 6.2: Logical Effort Part 2](https://iu.mediaspace.kaltura.com/media/t/1_1o42bbwr)|[6L.1 - VLSI Design Lab/Tutorial: IU Standard Cell Library](https://iu.mediaspace.kaltura.com/media/t/1_nnn37wvl)|
 |2/25/2025|14|6.3 - Logical Effort Part 3|[6](../Slides/6.0-LogicalEffort.pptx)||||[14 - 6.3: VLSI Design Lecture 6.3: Logical Effort Part 3](https://iu.mediaspace.kaltura.com/media/t/1_te524zun)|[6L.2 - VLSI Design Lab: Lab 2 Q&A](https://iu.mediaspace.kaltura.com/media/t/1_7jtnohaf)|
-|2/27/2025|15|6L - Lab 2/Buffer Design|NA|[HW 2](../HW/HW2.md)||[Lab 2](../HW/LAB_2.docx)||
-|3/4/2025|16|||||||
-|3/6/2025|17|||||||
+|2/27/2025|15|6L - Lab 2/Buffer Design|NA|[HW 2](../HW/HW2.md)||[Lab 2](../HW/LAB_2.docx)|NA|NA|
+|3/4/2025|16|HW 2 Work Day|NA||||NA|NA|
+|3/6/2025|17|7.1 - Power Part 1|[7](../Slides/7.0-Power.pptx)||||[17 - 7.1: VLSI Design Lecture 7.1: Power Part 1](https://iu.mediaspace.kaltura.com/media/t/1_k8tkfk56/367933772)|
 |3/11/2025|18|Midterm Review|NA|||[HW 2](../HW/HW2.md)<br>[HW 2 Solutions (Part 1)](../HW/HW2_Part1_Solutions.pdf)<br>[HW 2 Solutions (Part 2)](../HW/HW2_Part2_Solutions.pdf)|[Midterm Review](https://iu.mediaspace.kaltura.com/media/t/1_7hmtlvy0)|
+|3/13/2025|19|Midterm Exam|
+|3/18/2025||Spring Break|
+|3/20/2025||Spring Break|
+|3/13/2025|20|Midterm Exam|
+|3/25/2025|21|7.2 - Power Part 2|[7](../Slides/7.0-Power.pptx)|[HW 3 - Project Proposal](../HW/HW3.md)|||[21 - 7.2: VLSI Design Lecture 7.2: Power Part 2](https://iu.mediaspace.kaltura.com/media/t/1_s0bj34wr/367933772)|
+|3/27/2025|22|8.1 - Scaling Part 1|[8](../Slides/8.0-Scaling.pptx)||||[22 - 8.1: VLSI Design Lecture 8.1: Scaling Part 1](https://iu.mediaspace.kaltura.com/media/t/1_wzynbgsn/367933772)|
+|4/1/2025|23|8.2 - Scaling Part 2|[8](../Slides/8.0-Scaling.pptx)|||[HW 3](../HW/HW3.md)|[23 - 8.2: VLSI Design Lecture 8.2: Scaling Part 2](https://iu.mediaspace.kaltura.com/media/t/1_d83ejiog/367933772)|
+|4/3/2025|24|9 - Sequential Design|[9](../Slides/9.0-SequentialDesign.pptx)||||[24 - 9: VLSI Design Lecture 9: Sequential Design](https://iu.mediaspace.kaltura.com/media/t/1_384b3ste/367933772)|
+|4/8/2025|25|10 - Interconnect|[10](../Slides/10.0-Interconnect.pptx)|HW 4 - Preliminary Design|||[25 - 10: VLSI Design Lecture 10: Interconnect]()|
+|4/10/2025|26|11.1 - SRAM|[11](../Slides/11.0-SRAM.pptx)||||[26 - 11.1: VLSI Design Lecture 11.1: SRAM Part 1]()|
+|4/15/2025|27|11.2 - SRAM|[11](../Slides/11.0-SRAM.pptx)|||HW 4|[27 - 11.2: VLSI Design Lecture 11.2: SRAM Part 2]()|
+|4/17/2025|28|12 - Clocking|[12](../Slides/12.0-Clocking.pptx)||||[28 - 12: VLSI Design Lecture 12: Clocking]()|
