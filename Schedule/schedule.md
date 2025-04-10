@@ -28,7 +28,7 @@
 |3/27/2025|22|8.1 - Scaling Part 1|[8](../Slides/8.0-Scaling.pptx)||||[22 - 8.1: VLSI Design Lecture 8.1: Scaling Part 1](https://iu.mediaspace.kaltura.com/media/t/1_wzynbgsn/367933772)|
 |4/1/2025|23|8.2 - Scaling Part 2|[8](../Slides/8.0-Scaling.pptx)|||[HW 3](../HW/HW3.md)|[23 - 8.2: VLSI Design Lecture 8.2: Scaling Part 2](https://iu.mediaspace.kaltura.com/media/t/1_d83ejiog/367933772)|
 |4/3/2025|24|9 - Sequential Design|[9](../Slides/9.0-SequentialDesign.pptx)||||[24 - 9: VLSI Design Lecture 9: Sequential Design](https://iu.mediaspace.kaltura.com/media/t/1_384b3ste/367933772)|
-|4/8/2025|25|10 - Interconnect|[10](../Slides/10.0-Interconnect.pptx)|HW 4 - Preliminary Design|||[25 - 10: VLSI Design Lecture 10: Interconnect]()|
-|4/10/2025|26|11.1 - SRAM|[11](../Slides/11.0-SRAM.pptx)||||[26 - 11.1: VLSI Design Lecture 11.1: SRAM Part 1]()|
-|4/15/2025|27|11.2 - SRAM|[11](../Slides/11.0-SRAM.pptx)|||HW 4|[27 - 11.2: VLSI Design Lecture 11.2: SRAM Part 2]()|
-|4/17/2025|28|12 - Clocking|[12](../Slides/12.0-Clocking.pptx)||||[28 - 12: VLSI Design Lecture 12: Clocking]()|
+|4/8/2025|25|10 - Interconnect|[10](../Slides/10.0-Interconnect.pptx)|HW 4 - Preliminary Design|||[25 - 10.1: VLSI Design Lecture 10.1: Interconnect Part 1](https://iu.mediaspace.kaltura.com/media/t/1_ycf9q8dd)<br>[10.2: VLSI Design Lecture 10.2: Interconnect Part 2](https://iu.mediaspace.kaltura.com/media/t/1_txucquru)|
+|4/10/2025|26|11 - SRAM|[11](../Slides/11.0-SRAM.pptx)||||[26 - 11: VLSI Design Lecture 11: SRAM]()|
+|4/15/2025|27|12 - Clocking|[12](../Slides/12.0-Clocking.pptx)|||HW 4|[28 - 12: VLSI Design Lecture 12: Clocking]()|
+|4/17/2025|28|TBD|||||
