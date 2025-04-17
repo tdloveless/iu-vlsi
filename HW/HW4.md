@@ -2,7 +2,7 @@
 
 **Homework 4 (Preliminary Design Review - PDR)**
 
-**Due Date:** Mar. 22, 2025 @ 12:45pm
+**Due Date:** Apr. 22, 2025 @ 12:45pm
 
 **Objective:** 
 To develop and present a Preliminary Design Review (PDR) for a VLSI design project, demonstrating understanding of design principles, methodologies, and project planning.
