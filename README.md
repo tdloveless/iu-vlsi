@@ -38,4 +38,12 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [12 - VLSI Design Lecture 6.1: Logical Effort Part 1](https://iu.mediaspace.kaltura.com/media/t/1_uzarhskv)
 * [13 - VLSI Design Lecture 6.2: Logical Effort Part 2](https://iu.mediaspace.kaltura.com/media/t/1_1o42bbwr)
 * [14 - VLSI Design Lecture 6.3: Logical Effort Part 3](https://iu.mediaspace.kaltura.com/media/t/1_te524zun)
-
+* [17 - VLSI Design Lecture 7.1: Power Part 1](https://iu.mediaspace.kaltura.com/media/t/1_k8tkfk56/367933772)
+* [Midterm Review](https://iu.mediaspace.kaltura.com/media/t/1_7hmtlvy0)
+* [21 - VLSI Design Lecture 7.2: Power Part 2](https://iu.mediaspace.kaltura.com/media/t/1_s0bj34wr/367933772)
+* [22 - VLSI Design Lecture 8.1: Scaling Part 1](https://iu.mediaspace.kaltura.com/media/t/1_wzynbgsn/367933772)
+* [23 - VLSI Design Lecture 8.2: Scaling Part 2](https://iu.mediaspace.kaltura.com/media/t/1_d83ejiog/367933772)
+* [24 - VLSI Design Lecture 9: Sequential Design](https://iu.mediaspace.kaltura.com/media/t/1_384b3ste/367933772)
+* [25.1 - VLSI Design Lecture 10.1: Interconnect Part 1](https://iu.mediaspace.kaltura.com/media/t/1_ycf9q8dd)
+* [25.2 - VLSI Design Lecture 10.2: Interconnect Part 2](https://iu.mediaspace.kaltura.com/media/t/1_txucquru)
+* [26 - VLSI Design Lecture 11: SRAM](https://iu.mediaspace.kaltura.com/media/t/1_2qaqrm9y)
