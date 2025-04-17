@@ -31,5 +31,9 @@
 |4/8/2025|25|10 - Interconnect|[10](../Slides/10.0-Interconnect.pptx)|[HW 4 - Preliminary Design](../HW/HW4.md)|||[25 - 10: VLSI Design Lecture 10.1: Interconnect Part 1](https://iu.mediaspace.kaltura.com/media/t/1_ycf9q8dd)<br>[25 - 10: VLSI Design Lecture 10.2: Interconnect Part 2](https://iu.mediaspace.kaltura.com/media/t/1_txucquru)|
 |4/10/2025|26|11 - SRAM|[11](../Slides/11.0-SRAM.pptx)||||[26 - 11: VLSI Design Lecture 11: SRAM](https://iu.mediaspace.kaltura.com/media/t/1_2qaqrm9y)|
 |4/15/2025|27|HW 4 work day|NA||||NA||
-|4/17/2025|28|12 - Clocking|[12](../Slides/12.0-Clocking.pptx)||||[28 - 12: VLSI Design Lecture 12: Clocking]()|
-|4/17/2025|28|12 - Clocking|[12](../Slides/12.0-Clocking.pptx)||||[28 - 12: VLSI Design Lecture 12: Clocking]()|
+|4/17/2025|28|HW 4/5 work day|NA|HW 5 - Critical Design Review|||NA|
+|4/22/2025|29|12 - Clocking|[12](../Slides/12.0-Clocking.pptx)|Graduate Review Paper||[HW 4](../HW/HW4.md)|[28 - 12: VLSI Design Lecture 12.1: Clocking Part 1]()<br>[28 - 12: VLSI Design Lecture 12.2: Clocking Part 2]()||
+|4/24/2025|30|13 - Verilog, Synthesis, Place and Route|13|HW 6 - Tapeout Readiness Review|||||
+|4/29/2025|31|14 - Challenges|14|||HW 5|||
+|5/1/2025|32|Final Quiz|NA|||HW 6<br>Graduate Review Papers|||
+|5/6/2025|33|Final Project Presentations|NA|||Final Project|||
