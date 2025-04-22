@@ -32,8 +32,8 @@
 |4/10/2025|26|11 - SRAM|[11](../Slides/11.0-SRAM.pptx)||||[26 - 11: VLSI Design Lecture 11: SRAM](https://iu.mediaspace.kaltura.com/media/t/1_2qaqrm9y)|
 |4/15/2025|27|HW 4 work day|NA||||NA||
 |4/17/2025|28|HW 4/5 work day|NA|[HW 5 - Critical Design Review](../HW/HW5.md)|||NA|
-|4/22/2025|29|12 - Clocking|[12](../Slides/12.0-Clocking.pptx)|Graduate Review Paper||[HW 4](../HW/HW4.md)|[28 - 12: VLSI Design Lecture 12.1: Clocking Part 1]()<br>[28 - 12: VLSI Design Lecture 12.2: Clocking Part 2]()||
-|4/24/2025|30|13 - Verilog, Synthesis, Place and Route|13|HW 6 - Tapeout Readiness Review|||||
-|4/29/2025|31|14 - Challenges|14|||[HW 5](../HW/HW5.md)|||
+|4/22/2025|29|12 - Clocking<br>13 - Ex: CDR|[12](../Slides/12.0-Clocking.pptx)<br>[13](../Slides/13.0-example_CDR.pptx)|Graduate Review Paper||[HW 4](../HW/HW4.md)|[28 - 12: VLSI Design Lecture 12.1: Clocking Part 1]()<br>[28 - 12: VLSI Design Lecture 12.2: Clocking Part 2]()||
+|4/24/2025|30|14 - Verilog, Synthesis, Place and Route|14|HW 6 - Tapeout Readiness Review|||||
+|4/29/2025|31|15 - Challenges|15|||[HW 5](../HW/HW5.md)|||
 |5/1/2025|32|Final Quiz|NA|||HW 6<br>Graduate Review Papers|||
 |5/6/2025|33|Final Project Presentations|NA|||Final Project|||
