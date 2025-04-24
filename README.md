@@ -49,5 +49,5 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [26 - VLSI Design Lecture 11: SRAM](https://iu.mediaspace.kaltura.com/media/t/1_2qaqrm9y)
 * [28L - Overview of the PDR](https://iu.mediaspace.kaltura.com/media/t/1_n6clm5ow)
 * [29.1 - VLSI Design Lecture 12.1: Clocking Part 1](https://iu.mediaspace.kaltura.com/media/t/1_4wgqu48b)
-* 29.2 - VLSI Design Lecture 12.2: Clocking Part 2
+* [29.2 - VLSI Design Lecture 12.2: Clocking Part 2](https://iu.mediaspace.kaltura.com/media/t/1_ffmw9f07)
 * [29L - Example CDR](https://iu.mediaspace.kaltura.com/media/t/1_8b8y6o4h)
