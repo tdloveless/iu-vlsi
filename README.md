@@ -4,7 +4,7 @@
 The repository contains lecture material, HW/lab material, and design files for Cadence
 
 The main contents are:
-* [Syllabus](./syllabus.md)
+* [Syllabus](./Syllabus/syllabus.md)
 * [Schedule](./Schedule/schedule.md#schedule)
 * [Lecture Slides](./Slides/)
 * [Lecture Videos](#lecture-videos)
