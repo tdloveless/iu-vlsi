@@ -65,4 +65,4 @@ Note to students: these dates are subject to change with adequate notification v
 * Cadence is installed on the burrow-rhel server at IU. You will be given accounts on this Red Hat Linux system and can access it via the classroom (IF 4111) or remotely through IU's VPN. More information on the main [README](../README.md#running-cadence)
 * All course material will be published to <https://github.com/tdloveless/iu-vlsi>
 * Note that Canvas will only be used to publish grades and links to submit assignments. Students are expected to supply a personal working laptop computer with permissions to install and use course software.
-* [More Information](./course-info.pdf)
+* [More Information](./course_info.pdf)
