@@ -24,8 +24,9 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 
 ## Lecture Videos
 ### [Kaltura Channel](https://iu.mediaspace.kaltura.com/channel/VLSI%2BDesign/367933772)
-* [1 - VLSI Design Lecture 1: Introduction to VLSI Design](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)
-* [2 - VLSI Design Lecture 2.0: Circuits and Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6)
+* [1 - Introduction to VLSI Design](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)
+* [2 - Introduction Part 2](https://iu.mediaspace.kaltura.com/media/t/1_9rbo7vdj)
+<!--
 * [3 - VLSI Design Lecture 2.1: Circuits and Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0)
 * [3L - VLSI Design Lab 1: Intro to Lab 1](https://iu.mediaspace.kaltura.com/media/t/1_vuye49w6)
 * [4 - VLSI Design Tutorial: Layout of NAND2](https://iu.mediaspace.kaltura.com/media/t/1_v5uty58m)
@@ -51,3 +52,4 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [29.1 - VLSI Design Lecture 12.1: Clocking Part 1](https://iu.mediaspace.kaltura.com/media/t/1_4wgqu48b)
 * [29.2 - VLSI Design Lecture 12.2: Clocking Part 2](https://iu.mediaspace.kaltura.com/media/t/1_ffmw9f07)
 * [29L - Example CDR](https://iu.mediaspace.kaltura.com/media/t/1_8b8y6o4h)
+-->
