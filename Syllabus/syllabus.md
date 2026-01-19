@@ -62,7 +62,7 @@ Note to students: these dates are subject to change with adequate notification v
 
 * All course reference materials are supplied in-class and on the course GitHub page.
 * No software purchases are required; VLSI Design will utilize the Cadence Design electronic design automation (EDA) tool suite. The Cadence EDA is a high-quality, industry-standard tool heavily used to design and simulate integrated circuits. We will be using the Cadence Design System for circuit schematic design (Virtuoso), simulation (Spectre), circuit layout (Virtuoso), and verification (Pegasus). Information about Cadence can be found [here](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/layout-design/virtuoso-layout-suite.html).
-* Cadence is installed on the burrow-rhel server at IU. You will be given accounts on this Red Hat Linux system and can access it via the classroom (IF 4111) or remotely through IU's VPN. More information on the main [README](../README.md#Running-Cadence)
+* Cadence is installed on the burrow-rhel server at IU. You will be given accounts on this Red Hat Linux system and can access it via the classroom (IF 4111) or remotely through IU's VPN. More information on the main [README](../README.md#running-cadence)
 * All course material will be published to <https://github.com/tdloveless/iu-vlsi>
 * Note that Canvas will only be used to publish grades and links to submit assignments. Students are expected to supply a personal working laptop computer with permissions to install and use course software.
-* [More Information](./course-info.pdf)
+* [More Information](./Syllabus/course-info.pdf)
