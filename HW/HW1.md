@@ -4,7 +4,7 @@
 
 **Due Date:** Feb. 6, 2025 @ 1:15pm
 
-**Description:** This assignment will survey what yo= u have learned thus far using problems from R. Baker’s “CMOS Circuit Desig= n, Layout, and Simulation”
+**Description:** This assignment will survey what you have learned thus far using problems from R. Baker’s “CMOS Circuit Design, Layout, and Simulation”
 
 ![baker4](./baker4th.jpg)
 
