@@ -26,6 +26,11 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 ### [Kaltura Channel](https://iu.mediaspace.kaltura.com/channel/VLSI%2BDesign/367933772)
 * [1 - Introduction to VLSI Design](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)
 * [2 - Introduction Part 2](https://iu.mediaspace.kaltura.com/media/t/1_9rbo7vdj)
+* [3 - Introduction Part 3](https://iu.mediaspace.kaltura.com/media/t/1_nuv5c84g)
+* [4.1 - S25 Lecture 2.0 - Circuits & Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6/367933772)
+* [4.2 - S25 Lecture 2.1 - Circuits & Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0/367933772)
+* [4.3 - Introduction to the Cadence EDA](https://iu.mediaspace.kaltura.com/media/t/1_h1g4ehr2)
+
 <!--
 * [3 - VLSI Design Lecture 2.1: Circuits and Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0)
 * [3L - VLSI Design Lab 1: Intro to Lab 1](https://iu.mediaspace.kaltura.com/media/t/1_vuye49w6)
