@@ -1,13 +1,14 @@
 # iu-vlsi
 ## IUB ENGR-E-399/599 VLSI Course Schedule
 
-|Date|Lecture|Topic|Slides|Assignments|Reading|Due|Video Link|Lab Link|
-|---|---|---|---|---|---|---|---|---|
+|Date|Lecture|Topic|Slides|Assignments|Reading|Due|Video Link|
+|---|---|---|---|---|---|---|---|
 |1/13/2026|1|1.0 - Introduction Part 1|[1.0 (1-13)](../Slides/1.0-Introduction.pptx)||Chp. 7||[1 - VLSI Design Lecture 1: Introduction to VLSI Design Part 1](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)||
 |1/15/2026|2|1.0 - Introduction Part 2|[1.0 (14-24)](../Slides/1.0-Introduction.pptx)||||[2 - VLSI Design Lecture 2: Introduction to VLSI Design Part 2](https://iu.mediaspace.kaltura.com/media/t/1_9rbo7vdj)||
-|1/20/2026|3|1.0 - Introduction Part 3|[1.0 (25-52)](../Slides/1.0-Introduction.pptx)||||3 - VLSI Design Lecture 3: Introduction to VLSI Design Part 3||
-
-
+|1/20/2026|3|1.0 - Introduction Part 3|[1.0 (25-52)](../Slides/1.0-Introduction.pptx)||||[3 - VLSI Design Lecture 3: Introduction to VLSI Design Part 3](https://iu.mediaspace.kaltura.com/media/t/1_nuv5c84g)||
+|1/22/2026|4|3.1 - Introduction to the Cadence EDA|[2](../Slides/2.0-Circuits-Layout)|Watch: [S25 Lecture 2.0 - Circuits & Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6/367933772)<br><br>[S25 Lecture 2.1 - Circuits & Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0/367933772)|||[3.1 - Introduction to the Cadence EDA](https://iu.mediaspace.kaltura.com/media/t/1_h1g4ehr2)|
+|1/27/2026|5|3.2 - Introduction to Lab 1||[Lab 1](../HW/Lab_1.docx)|Chp. 5.1-5.3, Chp. 6|||
+|1/27/2026|5|Tutorial - Layout of NAND2||||||
 
 <!--
 |1/16/2025|2|2.0 - Circuits and Layout Part 1|[2](../Slides/2.0-Circuits-Layout.pptx)||Chp. 5||[2 - VLSI Design Lecture 2.0: Circuits and Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6)||
