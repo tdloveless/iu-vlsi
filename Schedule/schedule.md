@@ -6,17 +6,17 @@
 |1/13/2026|1|1.0 - Introduction Part 1|[1.0 (1-13)](../Slides/1.0-Introduction.pptx)||Chp. 7||[1 - VLSI Design Lecture 1: Introduction to VLSI Design Part 1](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)||
 |1/15/2026|2|1.0 - Introduction Part 2|[1.0 (14-24)](../Slides/1.0-Introduction.pptx)||||[2 - VLSI Design Lecture 2: Introduction to VLSI Design Part 2](https://iu.mediaspace.kaltura.com/media/t/1_9rbo7vdj)||
 |1/20/2026|3|1.0 - Introduction Part 3|[1.0 (25-52)](../Slides/1.0-Introduction.pptx)||||[3 - VLSI Design Lecture 3: Introduction to VLSI Design Part 3](https://iu.mediaspace.kaltura.com/media/t/1_nuv5c84g)||
-|1/22/2026|4|3.1 - Introduction to the Cadence EDA|[2](../Slides/2.0-Circuits-Layout)|Watch: [S25 Lecture 2.0 - Circuits & Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6/367933772)<br><br>[S25 Lecture 2.1 - Circuits & Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0/367933772)|||[3.1 - Introduction to the Cadence EDA](https://iu.mediaspace.kaltura.com/media/t/1_h1g4ehr2)|
-|1/27/2026|5|3.2 - Introduction to Lab 1||[Lab 1](../HW/Lab_1.docx)|Chp. 5.1-5.3, Chp. 6|||
-|1/27/2026|5|Tutorial - Layout of NAND2||||||
+|1/22/2026|4|3.1 - Introduction to the Cadence EDA|[2](../Slides/2.0-Circuits-Layout)|Watch: [S25 Lecture 2.0 - Circuits & Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6/367933772)<br><br>[S25 Lecture 2.1 - Circuits & Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0/367933772)|||[3.1 - VLSI Design Lecture 4: Introduction to the Cadence EDA](https://iu.mediaspace.kaltura.com/media/t/1_h1g4ehr2)|
+|1/27/2026|5|3.2 - Introduction to Lab 1|NA|[Lab 1](../HW/Lab_1.docx)|Chp. 5.1-5.3, Chp. 6||[3.2 - VLSI Design Lecture 5: DC and Transient (Spectre) Simulation in the Cadence EDA](https://iu.mediaspace.kaltura.com/media/t/1_hfivrwwl)|
+|1/29/2026|6|Tutorial - Layout of an Inverter|[3](../Slides/3.0-Transistors.pptx)|Watch: [S25 Lecture 3.0: Transistor Theory](https://iu.mediaspace.kaltura.com/media/t/1_23ieu5r5/367933772)|||[3.3 - VLSI Design Lecture 6: Introduction to Virtuoso Layout Editor](https://iu.mediaspace.kaltura.com/media/t/1_pa45duga)|
+|2/3/2026|7|Non-Ideal Transistor Theory|[4](../Slides/4.0-Non-Ideal-Transistors.pptx)|Watch: [S25 Lecture 4.0: Non-Ideal Transistor Theory Part 1](https://iu.mediaspace.kaltura.com/media/t/1_2b366691/367933772)<br>[S25 Lecture 4.1: Non-Ideal Transitor Theory Part 2 (up through 28:00)](https://iu.mediaspace.kaltura.com/media/t/1_zl9296ow/367933772)|Chp. 11.1-11.3||No in-person class. Watch pre-recorded videos under "Assignments"|
+|2/5/2026|8|||[HW 1](../HW/HW_1.md)|Chp. 12.1-12.3|[Lab 1](../HW/Lab_1.docx)||
+|2/10/2026|9|||||||
+|2/12/2026|10|||||[HW 1](../HW/HW_1.md)||
+
 
 <!--
-|1/16/2025|2|2.0 - Circuits and Layout Part 1|[2](../Slides/2.0-Circuits-Layout.pptx)||Chp. 5||[2 - VLSI Design Lecture 2.0: Circuits and Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6)||
-|1/21/2025|3|2.1 - Circuits and Layout Part 2|[2](../Slides/2.0-Circuits-Layout.pptx)|[Lab 1](../HW/LAB_1.docx)|Chp. 6||[3 - VLSI Design Lecture 2.1: Circuits and Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0)|[3L - VLSI Design Lab 1: Intro to Lab 1](https://iu.mediaspace.kaltura.com/media/t/1_vuye49w6)|
-|1/23/2025|4|Tutorial - Layout of NAND2|NA||||[4 - VLSI Design Tutorial: Layout of NAND2](https://iu.mediaspace.kaltura.com/media/t/1_v5uty58m)||
-|1/28/2025|5|3.0 - CMOS Transistor Theory|[3](../Slides/3.0-Transistors.pptx)|[HW 1](../HW/HW1.md)|Chp. 11||[5 - Transistor Theory Lecture 3.0](https://iu.mediaspace.kaltura.com/media/t/1_23ieu5r5)||
-|1/30/2025|6|Tutorial - Layout Vias|NA|||[Lab 1](../HW/LAB_1.docx)|[6 - VLSI Design Tutorial: Vias](https://iu.mediaspace.kaltura.com/media/t/1_ckm0xpls)||
-|2/4/2025|7|4.0 - Non-Ideal Transistor Theory Part 1|[4](../Slides/4.0-Non-Ideal-Transistors.pptx)||||[7 - VLSI Design Lecture 4.1: Non-Ideal Transistor Theory Part 1](https://iu.mediaspace.kaltura.com/media/t/1_2b366691)||
+
 #|2/6/2025|8|4L - DRC & LVS|NA||||[8 - VLSI Design Tutorial: DRC & LVS](https://iu.mediaspace.kaltura.com/media/t/1_zpohh96u)||
 |2/11/2025|9|4.1 - Non-Ideal Transistor Theory Part 15 <br> 5.0 - DC & Transient Analysis Part 1|[4](../Slides/4.0-Non-Ideal-Transistors.pptx), [5](../Slides/5.0-DC-Tran.pptx)||Chp. 12|[HW 1](../HW/HW1.md)<br>[HW 1 Solutions](../HW/HW_1_Solutions.pdf)|[9 - VLSI Design Lecture 4.2: Non-Ideal Transistor Theory Part 2 <br> 5.1: DC & Transient Analysis Part 1](https://iu.mediaspace.kaltura.com/media/t/1_zl9296ow)||
 |2/13/2025|10|5.2 - DC & Transient Analysis Part 2|[5](../Slides/5.0-DC-Tran.pptx)|||[Lab 1+](../HW/LAB_1.docx)|[10 - 5.2: DC & Transient Analysis Part 2](https://iu.mediaspace.kaltura.com/media/t/1_cwttp12m)|[5L - VLSI Design Lab 2: Intro to Lab 2](https://iu.mediaspace.kaltura.com/media/t/1_h9zudkas)|

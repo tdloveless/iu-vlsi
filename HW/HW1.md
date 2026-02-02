@@ -2,7 +2,7 @@
 
 **Homework 1**
 
-**Due Date:** Feb. 6, 2025 @ 1:15pm
+**Due Date:** Feb. 12, 2026 @ 1:15pm
 
 **Description:** This assignment will survey what you have learned thus far using problems from R. Baker’s “CMOS Circuit Design, Layout, and Simulation”
 
@@ -33,4 +33,4 @@
 
 12.2 (Logic Gate Design and Simulation)
 
-**Deliverables:** Create a single PDF document highlighting all results and showing supporting work. Submit via Canvas no later than Feb. 6 at 1:15 pm.
+**Deliverables:** Create a single PDF document highlighting all results and showing supporting work. Submit via Canvas no later than Feb. 12 at 1:15 pm.

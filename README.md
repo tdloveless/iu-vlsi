@@ -24,12 +24,17 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 
 ## Lecture Videos
 ### [Kaltura Channel](https://iu.mediaspace.kaltura.com/channel/VLSI%2BDesign/367933772)
-* [1 - Introduction to VLSI Design](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)
-* [2 - Introduction Part 2](https://iu.mediaspace.kaltura.com/media/t/1_9rbo7vdj)
-* [3 - Introduction Part 3](https://iu.mediaspace.kaltura.com/media/t/1_nuv5c84g)
-* [4.1 - S25 Lecture 2.0 - Circuits & Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6/367933772)
-* [4.2 - S25 Lecture 2.1 - Circuits & Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0/367933772)
-* [4.3 - Introduction to the Cadence EDA](https://iu.mediaspace.kaltura.com/media/t/1_h1g4ehr2)
+* [1 - Lecture 1: Introduction to VLSI Design](https://iu.mediaspace.kaltura.com/media/t/1_07p5g8sa)
+* [2 - Lecture 2: Introduction Part 2](https://iu.mediaspace.kaltura.com/media/t/1_9rbo7vdj)
+* [3 - Lecture 3: Introduction Part 3](https://iu.mediaspace.kaltura.com/media/t/1_nuv5c84g)
+* [3.1 - S25 Lecture 2.0 - Circuits & Layout Part 1](https://iu.mediaspace.kaltura.com/media/t/1_h1jicei6/367933772)
+* [3.1.1 - Lecture 4: Introduction to the Cadence EDA](https://iu.mediaspace.kaltura.com/media/t/1_h1g4ehr2)
+* [3.1.2 - S25 Lecture 2.1 - Circuits & Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0/367933772)
+* [3.2 - Lecture 5: DC and Transient (Spectre) Simulation in the Cadence EDA](https://iu.mediaspace.kaltura.com/media/t/1_hfivrwwl)|
+* [3.2.1 - S25 Lecture 3.0: Transistor Theory](https://iu.mediaspace.kaltura.com/media/t/1_23ieu5r5/367933772)
+* [3.3 - VLSI Design Lecture 6: Introduction to Virtuoso Layout Editor](https://iu.mediaspace.kaltura.com/media/t/1_pa45duga)
+* [4.0 - S25 Lecture 4.0: Non-Ideal Transistor Theory Part 1](https://iu.mediaspace.kaltura.com/media/t/1_2b366691/367933772)
+* [4.1 - S25 Lecture 4.1: Non-Ideal Transistor Theory Part 2](https://iu.mediaspace.kaltura.com/media/t/1_zl9296ow/367933772)
 
 <!--
 * [3 - VLSI Design Lecture 2.1: Circuits and Layout Part 2](https://iu.mediaspace.kaltura.com/media/t/1_4lk2ien0)
