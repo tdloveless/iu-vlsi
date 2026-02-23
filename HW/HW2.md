@@ -2,7 +2,7 @@
 
 **Homework 2 (Midterm Practice)**
 
-**Due Date:** Mar. 6, 2025 @ 12:45pm (Not Graded)
+**Due Date:** Mar. 3, 2026 @ 12:45pm
 
 **Description:** This assignment will survey what you have learned thus
 far using problems from R. Baker's "CMOS Circuit Design, Layout, and
