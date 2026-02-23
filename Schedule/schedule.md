@@ -14,6 +14,7 @@
 |2/10/2026|9|5.1 - DC and Transient Analysis|[5](../Slides/5.0-DC-Tran.pptx)|[Watch: S25 Lecture 4.1: Non-Ideal Transistor Theory Part 2 (from 28:00)](https://iu.mediaspace.kaltura.com/media/t/1_zl9296ow/367933772)<br>[S25 Lecture 5.1: DC & Transient Analysis Part 2](https://iu.mediaspace.kaltura.com/media/t/1_cwttp12m/367933772)||Lab 1+|No in-person class. Watch pre-recorded videos under "Assignments"|
 |2/12/2026|10|6.1 - Logical Effort Part 1|[6 (1-10)](../Slides/6.0-LogicalEffort.pptx)|||[HW 1](../HW/HW_1.md)|[6.1 - VLSI Design Lecture 8: Logical Effort Part 1](https://iu.mediaspace.kaltura.com/media/t/1_30jg27xm)|
 |2/17/2026|11|6.2 - Logical Effort Part 2|[6 (11-33)](../Slides/6.0-LogicalEffort.pptx)||||[6.2 - VLSI Design Lecture 9: Logical Effort Part 2](https://iu.mediaspace.kaltura.com/media/t/1_zyl5pe55/367933772)|
+|2/19/2026|12|6.3 - Logical Effort Part 3|[6 (11-33)](../Slides/6.0-LogicalEffort.pptx)|[HW 2](../HW/HW_2.md)|||[6.3 - VLSI Design Lecture 10: Logical Effort Part 3](https://iu.mediaspace.kaltura.com/media/t/1_7vq9uamm)|
 
 <!--
 
