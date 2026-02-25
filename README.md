@@ -40,6 +40,7 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [6.1 - VLSI Design Lecture 8: Logical Effort Part 1](https://iu.mediaspace.kaltura.com/media/t/1_30jg27xm)
 * [6.2 - VLSI Design Lecture 9: Logical Effort Part 2](https://iu.mediaspace.kaltura.com/media/t/1_zyl5pe55/367933772)
 * [6.3 - VLSI Design Lecture 10: Logical Effort Part 3](https://iu.mediaspace.kaltura.com/media/t/1_7vq9uamm)
+* [7.1 - VLSI Design Lecture 11: Layout Tutorial - Multi-Fingered Transistors](https://iu.mediaspace.kaltura.com/media/t/1_e9ay0spw/367933772)
 
 
 <!--
