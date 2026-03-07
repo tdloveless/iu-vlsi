@@ -16,11 +16,11 @@
 |2/17/2026|11|6.2 - Logical Effort Part 2|[6 (11-33)](../Slides/6.0-LogicalEffort.pptx)||||[6.2 - VLSI Design Lecture 9: Logical Effort Part 2](https://iu.mediaspace.kaltura.com/media/t/1_zyl5pe55/367933772)|
 |2/19/2026|12|6.3 - Logical Effort Part 3|[6 (11-33)](../Slides/6.0-LogicalEffort.pptx)||||[6.3 - VLSI Design Lecture 10: Logical Effort Part 3](https://iu.mediaspace.kaltura.com/media/t/1_7vq9uamm)|
 |2/24/2026|13|7.1 - TUTORIAL: Multi-Fingered Transistor Layout|NA|[HW 2](../HW/HW2.md)|Chp. 2, 3, 4||[7.1 - VLSI Design Lecture 11: Layout Tutorial - Multi-Fingered Transistors](https://iu.mediaspace.kaltura.com/media/t/1_e9ay0spw/367933772)|
-|2/26/2026|14|7.2 - Introduction to Lab 2 / XOR|NA|[Lab 2](../HW/LAB_2_v1.3)|Chp. 15||[7.2 - VLSI Design Lecture 12: Intro to Lab 2](https://iu.mediaspace.kaltura.com/media/t/1_oqcdgkdk)|
+|2/26/2026|14|7.2 - Introduction to Lab 2 / XOR|NA|[Lab 2](../HW/LAB_2_v1.3)|Chp. 15||[7.2 - VLSI Design Lecture 12: Complex Logic](https://iu.mediaspace.kaltura.com/media/t/1_oqcdgkdk)|
 |3/3/2026|15|No class||||||
-|3/5/2026|16|Lab 2 Work Day||||[HW 2](../HW/HW2.md)||
-|3/10/2026|17|Midterm Review||||||
-|3/12/2026|18|Midterm Exam||||[Lab 2](../HW/LAB_2_v1.3)||
+|3/5/2026|16|Lab 2 Work Day|NA|||[HW 2](../HW/HW2.md)|[7.3 - Lab 2 Demo: Building an XOR in Cadence](https://iu.mediaspace.kaltura.com/media/t/1_4w3ssnqf)|
+|3/10/2026|17|Midterm Review|NA|||||
+|3/12/2026|18|Midterm Exam|NA|Midterm Exam||[Lab 2](../HW/LAB_2_v1.3)<br>Midterm Exam|NA|
 
 <!--
 
