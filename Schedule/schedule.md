@@ -18,9 +18,11 @@
 |2/24/2026|13|7.1 - TUTORIAL: Multi-Fingered Transistor Layout|NA|[HW 2](../HW/HW2.md)|Chp. 2, 3, 4||[7.1 - VLSI Design Lecture 11: Layout Tutorial - Multi-Fingered Transistors](https://iu.mediaspace.kaltura.com/media/t/1_e9ay0spw/367933772)|
 |2/26/2026|14|7.2 - Introduction to Lab 2 / XOR|NA|[Lab 2](../HW/LAB_2_v1.3)|Chp. 15||[7.2 - VLSI Design Lecture 12: Complex Logic](https://iu.mediaspace.kaltura.com/media/t/1_oqcdgkdk)|
 |3/3/2026|15|No class||||||
-|3/5/2026|16|Lab 2 Work Day|NA|||[HW 2](../HW/HW2.md)<br>[HW 2 SOLUTIONS PART 1](../HW/HW2_Part1_Solutions.pdf)<br>[HW 2 SOLUTIONS PART 2](../HW/HW2_Part2_Solutions.pdf)|[7.3 - Lab 2 Demo: Building an XOR in Cadence](https://iu.mediaspace.kaltura.com/media/t/1_4w3ssnqf)|
+|3/5/2026|16|Lab 2 Work Day|NA|||[HW 2](../HW/HW2.md)<br>[HW 2 SOLUTIONS PART 1](../HW/HW2_Part1_Solutions.pdf)<br>[HW 2 SOLUTIONS PART 2](../HW/HW2_Part2_Solutions.pdf)|[7.3 - VLSI Design Lecture 13: Lab 2 Demo: Building an XOR in Cadence](https://iu.mediaspace.kaltura.com/media/t/1_4w3ssnqf)|
 |3/10/2026|17|Midterm Review|NA||||NA|
 |3/12/2026|18|[Midterm Exam](../Midterm/Midterm_S26.pdf)|NA|[Midterm Exam](../Midterm/Midterm_S26.pdf)||[Lab 2](../HW/LAB_2_v1.3)<br>[Midterm Exam](../Midterm/Midterm_S26.pdf)|NA|
+|3/24/2026|19|8 - Layout Design Review Process / Introduction to Final Projects|[8](../Slides/8-example_PDR_CDR_TRR.pptx)|HW 3 - Project Proposal|||[8 - VLSI Design Lecture 14: Layout Design Review](https://iu.mediaspace.kaltura.com/media/t/1_pcjfwl0i/367933772)|
+|3/26/2026|20|||||HW 3 - Project Proposal||
 
 <!--
 
