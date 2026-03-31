@@ -22,7 +22,7 @@
 |3/10/2026|17|Midterm Review|NA||||NA|
 |3/12/2026|18|[Midterm Exam](../Midterm/Midterm_S26.pdf)|NA|[Midterm Exam](../Midterm/Midterm_S26.pdf)||[Lab 2](../HW/LAB_2_v1.3)<br>[Midterm Exam](../Midterm/Midterm_S26.pdf)|NA|
 |3/24/2026|19|8 - Layout Design Review Process / Introduction to Final Projects|[8](../Slides/8-example_PDR_CDR_TRR.pptx)|HW 3 - Project Proposal|||[8 - VLSI Design Lecture 14: Layout Design Review](https://iu.mediaspace.kaltura.com/media/t/1_pcjfwl0i/367933772)|
-|3/26/2026|20|||||HW 3 - Project Proposal||
+|3/26/2026|20|9 - Power Part 1|[9](../Slides/9.0-Power.pptx)|||HW 3 - Project Proposal|[9 - VLSI Design Lecture 15: Power Part 1](https://iu.mediaspace.kaltura.com/media/t/1_l7rrbdlb)|
 
 <!--
 
