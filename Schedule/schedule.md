@@ -24,6 +24,13 @@
 |3/24/2026|19|8 - Layout Design Review Process / Introduction to Final Projects|[8](../Slides/8-example_PDR_CDR_TRR.pptx)|HW 3 - Project Proposal|||[8 - VLSI Design Lecture 14: Layout Design Review](https://iu.mediaspace.kaltura.com/media/t/1_pcjfwl0i/367933772)|
 |3/26/2026|20|9.1 - Power Part 1|[9](../Slides/9.0-Power.pptx)|||HW 3 - Project Proposal|[9.1 - VLSI Design Lecture 15: Power Part 1](https://iu.mediaspace.kaltura.com/media/t/1_l7rrbdlb)|
 |3/31/2026|21|9.2 - Power Part 2|[9](../Slides/9.0-Power.pptx)||||[9.2 - VLSI Design Lecture 16: Power Part 2](https://iu.mediaspace.kaltura.com/media/t/1_o8lyvvpp)|
+|4/2/2026|22|9.3 - Power Part 3|[9](../Slides/9.0-Power.pptx)||||[9.3 - VLSI Design Lecture 17: Power Part 3 + 90nm Demo](https://iu.mediaspace.kaltura.com/media/t/1_2zg2gbju)|
+|4/7/2026|23|10.1 - Clocking Part 1|[10](../Slides/10.0-Clocking.pptx)|[PDR](../HW/pdr.md)|||[10.1 - VLSI Design Lecture 18: Clocking Part 1](https://iu.mediaspace.kaltura.com/media/t/1_ocur8765)|
+|4/9/2026|23|10.2 - Clocking Part 2|[10](../Slides/10.0-Clocking.pptx)||||10.2 - VLSI Design Lecture 19: Clocking Part 2|
+|4/14/2026|24|Interconnect||||[PDR](../HW/pdr.md)|
+|4/16/2026|25|SRAM|||||
+|4/21/2026|26|Scaling|||||
+
 <!--
 
 #|2/6/2025|8|4L - DRC & LVS|NA||||[8 - VLSI Design Tutorial: DRC & LVS](https://iu.mediaspace.kaltura.com/media/t/1_zpohh96u)||
