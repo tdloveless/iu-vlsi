@@ -25,11 +25,15 @@
 |3/26/2026|20|9.1 - Power Part 1|[9](../Slides/9.0-Power.pptx)|||HW 3 - Project Proposal|[9.1 - VLSI Design Lecture 15: Power Part 1](https://iu.mediaspace.kaltura.com/media/t/1_l7rrbdlb)|
 |3/31/2026|21|9.2 - Power Part 2|[9](../Slides/9.0-Power.pptx)||||[9.2 - VLSI Design Lecture 16: Power Part 2](https://iu.mediaspace.kaltura.com/media/t/1_o8lyvvpp)|
 |4/2/2026|22|9.3 - Power Part 3|[9](../Slides/9.0-Power.pptx)||||[9.3 - VLSI Design Lecture 17: Power Part 3 + 90nm Demo](https://iu.mediaspace.kaltura.com/media/t/1_2zg2gbju)|
-|4/7/2026|23|10.1 - Clocking Part 1|[10](../Slides/10.0-Clocking.pptx)|[PDR](../HW/pdr.md)|||[10.1 - VLSI Design Lecture 18: Clocking Part 1](https://iu.mediaspace.kaltura.com/media/t/1_ocur8765)|
-|4/9/2026|23|10.2 - Clocking Part 2|[10](../Slides/10.0-Clocking.pptx)||||10.2 - VLSI Design Lecture 19: Clocking Part 2|
-|4/14/2026|24|Interconnect||||[PDR](../HW/pdr.md)|
-|4/16/2026|25|SRAM|||||
-|4/21/2026|26|Scaling|||||
+|4/7/2026|23|10.1 - Clocking Part 1|[10](../Slides/10.0-Clocking.pptx)|[PDR](../HW/HW4.md)|||[10.1 - VLSI Design Lecture 18: Clocking Part 1](https://iu.mediaspace.kaltura.com/media/t/1_ocur8765)|
+|4/9/2026|23|10.2 - Clocking Part 2|[10](../Slides/10.0-Clocking.pptx)||||[10.2 - VLSI Design Lecture 19: Clocking Part 2](https://iu.mediaspace.kaltura.com/media/t/1_h7xkt6mh)|
+|4/14/2026|24|11.1 - Interconnect Part 1|[11](../Slides/11.0-Interconnect.pptx)|||[PDR](../HW/HW4.md)|[11.0 - VLSI Design Lecture 20: Interconnect](https://iu.mediaspace.kaltura.com/media/t/1_a26eckz3)|
+|4/16/2026|25|11.2 - Interconnect Part 2|[11](../Slides/11.0-Interconnect.pptx)|[CDR](../HW/HW5.md)|||NA|
+|4/21/2026|26|12.1 - SRAM Part 1|[12](../Slides/12.0-SRAM.pptx)||||[12.0 - VLSI Design Lecture 22: SRAM](https://iu.mediaspace.kaltura.com/media/t/1_4pskin5s)|
+|4/23/2026|27|12.2 - SRAM Part 2|[12](../Slides/12.0-SRAM.pptx)|||||
+|4/28/2026|28|TBD||||||
+|4/30/2026|29|TBD||||[CDR](../HW/HW5.md)||
+
 
 <!--
 
