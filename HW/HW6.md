@@ -24,7 +24,7 @@ To develop and present a Tapeout Readiness Review (TRR) for a VLSI design projec
 - Ensure all technical details are accurate and well-explained.
 
 **Submission**:
-- Submit your PowerPoint presentation file by May 1.
+- Submit your PowerPoint presentation file by May 7.
 - Ensure your file is named appropriately (e.g., "TRR_Presentation_YourName.pptx").
 
 ## Evaluation Criteria
