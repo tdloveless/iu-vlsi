@@ -2,7 +2,7 @@
 
 **Homework 6 (Tapeout Readiness Review - TRR)**
 
-**Due Date:** May 1, 2025 @ 12:45pm
+**Due Date:** May 7, 2026 @ 12:45pm
 
 **Objective:**  
 To develop and present a Tapeout Readiness Review (TRR) for a VLSI design project, demonstrating completed design and readiness for fabrication.
