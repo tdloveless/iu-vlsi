@@ -42,7 +42,11 @@ A default Cadence library file ([cds.lib](IC_CAD/cadence/cds.lib)) is provided i
 * [6.3 - VLSI Design Lecture 10: Logical Effort Part 3](https://iu.mediaspace.kaltura.com/media/t/1_7vq9uamm)
 * [7.1 - VLSI Design Lecture 11: Layout Tutorial - Multi-Fingered Transistors](https://iu.mediaspace.kaltura.com/media/t/1_e9ay0spw/367933772)
 * [7.2 - VLSI Design Lecture 12: Intro to Lab 2 / XOR](https://iu.mediaspace.kaltura.com/media/t/1_oqcdgkdk)
-* [7.3 - Lab 2 Demo: Building an XOR in Cadence](https://iu.mediaspace.kaltura.com/media/t/1_4w3ssnqf)|
+* [7.3 - Lab 2 Demo: Building an XOR in Cadence](https://iu.mediaspace.kaltura.com/media/t/1_4w3ssnqf)
+* [8 - VLSI Design Lecture 14: Layout Design Review](https://iu.mediaspace.kaltura.com/media/t/1_pcjfwl0i/367933772)
+* [9.1 - VLSI Design Lecture 15: Power Part 1](https://iu.mediaspace.kaltura.com/media/t/1_l7rrbdlb)
+* [9.2 - VLSI Design Lecture 16: Power Part 2](https://iu.mediaspace.kaltura.com/media/t/1_o8lyvvpp)
+<!--
 
 
 

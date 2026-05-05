@@ -2,7 +2,7 @@
 
 **Homework 5 (Critical Design Review - CDR)**
 
-**Due Date:** Apr. 29, 2025 @ 12:45pm
+**Due Date:** May 1, 2026 @ 12:59pm
 
 **Objective:**  
 To develop and present a Critical Design Review (CDR) for a VLSI design project, demonstrating progress in design implementation, including a 75% completed layout.
@@ -27,7 +27,7 @@ To develop and present a Critical Design Review (CDR) for a VLSI design project,
 - Ensure all technical details are accurate and well-explained.
 
 **Submission**:
-- Submit your PowerPoint presentation file by Apr. 29.
+- Submit your PowerPoint presentation file by May 1.
 - Ensure your file is named appropriately (e.g., "CDR_Presentation_YourName.pptx").
 
 ## Evaluation Criteria
